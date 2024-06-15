@@ -1,7 +1,7 @@
-# Site Alura Plua
+# Site Alura Plus
 Projeto do curso de HTML e CSS da plataforma Alura
 
-#Ferramentas utilizadas
+## Ferramentas utilizadas
  - HTML
  - CSS
  - VSCode
